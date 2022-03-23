@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(54, 223, 166);
+}
+
+
+h1, h2{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    padding:50px;
+}
+
+h1>span{
+    color:red;
+}
